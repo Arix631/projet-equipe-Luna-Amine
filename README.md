@@ -1,1 +1,1 @@
-Projet d'équipe Amine et Luna (AFEC)
+Projet d'équipe Amine et Luna (formation AFEC)

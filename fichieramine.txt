@@ -1,2 +1,7 @@
 Salut a tous ! groupe amine luna afec
+<<<<<<< HEAD
 je kiff le seigneur des anneaux
+=======
+
+Un super projet réalisé par Amine et Luna
+>>>>>>> feature-profile
